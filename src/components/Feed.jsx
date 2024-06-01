@@ -26,7 +26,7 @@ const Feed = () => {
     >
       <Box 
         sx={{ 
-          height: { xs: "92vh", md: "92vh" }, 
+          height: { xs: "auto", md: "92vh" }, 
             borderRight: "1px solid #3d3d3d", 
             px: { xs: 0, md: 2 } 
         }}
